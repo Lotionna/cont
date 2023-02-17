@@ -12,3 +12,11 @@ for i in range(lower, upper + 1):
 10
 15
 20
+>>> type(4.5)
+<class 'float'>
+
+>>> type(5.8)
+<class 'float'>
+
+>>> type(2342423424.3)
+<class 'float'>
